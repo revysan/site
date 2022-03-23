@@ -328,19 +328,19 @@
       font-style: normal;
       font-size: 20px;
       color: #000;
-      margin-left: 50px;
+      margin-left: 100px;
     }
 
     h2{
       font-style: normal;
       font-size: 18px;
       color: rgba(0, 0, 0, 0.938);
-      margin-left: 50px;
+      margin-left: 100px;
     }
 
     p{
       margin-left: 50px;
-      margin-right: 50px;
+      margin-right: 100px;
     }
 
     .center {
